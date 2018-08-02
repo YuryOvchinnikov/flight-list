@@ -1,0 +1,25 @@
+.flight {
+    margin-bottom: 10px;
+}
+
+.flight .flight-content {
+    display: flex;
+    padding: 10px 40px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flight .flight-contentTime {
+    font-size: 22px;
+    color: #555;
+}
+
+.flight .flight-contentDirection {
+    font-size: 14px;
+    color: #999;
+}
+
+.flight .flight-contentDate {
+    font-size: 14px;
+    color: #999;
+}
